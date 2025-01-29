@@ -1,23 +1,23 @@
 ## Wurst party
-# ![](https://github.com/lisa-craw/donjek_data_process/blob/main/wurst_tanzen.gif)
+# ![](https://github.com/lisa-craw/nsa_plotting_example/blob/main/wurst_tanzen.gif)
 
 ### Processed data
 
-# ![](https://github.com/lisa-craw/donjek_data_process/blob/main/plots/wurst_pressure.png)
+# ![](https://github.com/lisa-craw/nsa_plotting_example/blob/main/plots/wurst_pressure.png)
 
-# ![](https://github.com/lisa-craw/donjek_data_process/blob/main/plots/temp_curves_together.png)
+# ![](https://github.com/lisa-craw/nsa_plotting_example/blob/main/plots/temp_curves_together.png)
 
 ### Reassurance data
 
-# ![](https://github.com/lisa-craw/donjek_data_process/blob/main/plots/logger_voltage.png)
+# ![](https://github.com/lisa-craw/nsa_plotting_example/blob/main/plots/logger_voltage.png)
 
-# ![](https://github.com/lisa-craw/donjek_data_process/blob/main/plots/wurst_voltage.png)
+# ![](https://github.com/lisa-craw/nsa_plotting_example/blob/main/plots/wurst_voltage.png)
 
 
 ## Running these scripts
 
 These scripts were written using python 3.10.12.
-The best way to run them is to create a virtual environment in the root of the `donjek_data_process` repository like so:
+The best way to run them is to create a virtual environment in the root of the `nsa_plotting_example` repository like so:
 
 ```bashs
 python -m pip install virtualenv
